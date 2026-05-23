@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28171248/README.md)
 ## 🌱 이지혜 | Jihye Lee
 
 경기대학교 컴퓨터공학전공 · CPSLab 학부연구생
